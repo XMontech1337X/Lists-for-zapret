@@ -69,3 +69,9 @@ static.rutracker.cc
 fastpic.org
 speedtest.net
 maven.neoforged.net
+www.instagram.com
+instagram.com
+cdninstagram.com
+facebook.com
+fbcdn.net
+
