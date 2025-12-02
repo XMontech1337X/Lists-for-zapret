@@ -46,3 +46,11 @@ encrypted-tbn3.gstatic.com
 encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
 raw.githubusercontent.com
+multimc.org
+valve.net
+gosuslugi.ru
+gu-st.ru
+faceit.com
+2ch.hk
+rf4game.ru
+rf4game.com
